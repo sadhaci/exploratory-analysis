@@ -20,6 +20,7 @@ https://www.kaggle.com/shivamb/35-million-tiktok-mobile-app-reviews
 
 * 3.5M Tiktok Mobile App Reviews, all the publicly posted reviews are scraped from Tiktok App on Google Play Store
 * Totl data of 3,646,476 row.
+* Data of Tiktok Mobile App Review from 11 Agustus 2015 to 22 September 2021
 * review_id: ID Review of Users.
 * review_text: A writing/text containing an evaluation or review of a publication.
 * upvotes: To make comments more popular.
